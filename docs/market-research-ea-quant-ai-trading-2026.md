@@ -5,6 +5,7 @@
 **Prepared:** July 4, 2026
 **Purpose:** Pre-build market research for a founder evaluating entry into the financial EA (Expert Advisor) / quantitative trading product space.
 **Audience:** Technically capable founder / product builder.
+**Language versions:** English (this document) · [中文版](market-research-ea-quant-ai-trading-2026.zh-CN.md). Both versions carry identical data and conclusions; the English version and its cited primary sources govern in case of discrepancy.
 
 > **DISCLAIMER (read first).** This report is for **market research and product analysis only**. It does **not** constitute investment advice, an offer or solicitation of any financial product, or a recommendation to trade. **No trading system — rule-based, AI-driven, or manual — can guarantee profits.** All performance figures cited here are historical, frequently unaudited, and in many cases explicitly promotional; past performance does not predict future results. Figures labeled "promotional" should be treated as *from promotional material and not necessarily equivalent to reproducible real-world performance*. See §12 for the full disclaimer.
 
